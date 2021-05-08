@@ -17,6 +17,7 @@ Logiciel qui permet de connaitre les animaux.
 #npm install -g expo-cli
 
 #Création d'un projet dans le répertoir Mascota.
-#expo init Mascota
+#expo init app-phone
 
 #Création d'un sous projet 
+test des branch sur GIT
