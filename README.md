@@ -3,11 +3,11 @@ Logiciel qui permet de connaitre les animaux.
 ***
 #Ce projet ce divise en trois parties.
 
-##1. La partie Phone avec React Native.
+#1. La partie Phone avec React Native.
 
 ##2. La partie Front avec React.
 
-##3. La partie Back avec Java Spring
+###3. La partie Back avec Java Spring
 
 ***
 #Installation
