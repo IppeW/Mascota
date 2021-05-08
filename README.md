@@ -1,5 +1,9 @@
 # Mascota
-Logiciel qui permet de connaitre les animaux
+Logiciel qui permet de connaitre les animaux.
+#Ce projet ce divise en trois parties.
+#1. La partie Phone avec React Native.
+#2. La partie Front avec React.
+#3. La partie Back avec Java Spring
 
 ***
 #Installation
@@ -8,5 +12,7 @@ Logiciel qui permet de connaitre les animaux
 #Installation de EXPO.
 #npm install -g expo-cli
 
-#Création d'un projet react dans le répertoir Mascota.
+#Création d'un projet dans le répertoir Mascota.
 #expo init Mascota
+
+#Création d'un sous projet 
