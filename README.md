@@ -24,6 +24,3 @@ Logiciel qui permet de connaitre les animaux.
 
 #Creation d'une branch meddi_branch
 
-
-
-TEST WILL 222222222222222222222222222222
