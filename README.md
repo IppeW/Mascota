@@ -3,24 +3,27 @@ Logiciel qui permet de connaitre les animaux.
 ***
 #Ce projet ce divise en trois parties.
 
-#1. La partie Phone avec React Native.
+# 1. La partie Phone avec React Native.
 
-##2. La partie Front avec React.
+## 2. La partie Front avec React.
 
-###3. La partie Back avec Java Spring
+### 3. La partie Back avec Java Spring
 
 ***
-#Installation
+# Installation REACT Native.
+# Etape 1.1 Installation et préparation de l'espace de travail.
 ***
 
-#Installation de EXPO.
-#npm install -g expo-cli
+# Installation de EXPO.
+# npm install -g expo-cli
 
-#Création d'un projet dans le répertoir Mascota.
-#expo init app-phone
+# Création d'un projet dans le répertoir Mascota.
+# expo init app-phone
 
-#Création d'un sous projet 
-#test des branch sur GIT
+# Création d'un sous projet 
+# test des branch sur GIT
 
-#Creation d'une branch meddi_branch
+# Creation d'une branch meddi_branch
+# Création d'une branch will_fou
+
 
