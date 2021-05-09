@@ -20,4 +20,6 @@ Logiciel qui permet de connaitre les animaux.
 #expo init app-phone
 
 #Création d'un sous projet 
-test des branch sur GIT
+#test des branch sur GIT
+
+#Creation d'une branch meddi_branch
