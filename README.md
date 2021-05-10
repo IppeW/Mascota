@@ -27,4 +27,14 @@ Logiciel qui permet de connaitre les animaux.
 ### Creation d'une branch meddi_branch
 ### Création d'une branch will_fou
 
+***
+## Réalisation du projet.
+
+### Organisation de l'architecture.
+
+### Céation de la page Home, Layout, ChiensListe, Chien, ChatsListe, Chat.
+### Céation du menu avec deux lien : 
+### 1. Chiens
+### 2. Chats
+
 
