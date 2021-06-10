@@ -1,0 +1,29 @@
+@import "../_settings";
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    background-color: $ChineseViolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;    
+    
+    .copyright{
+        text-align: right;
+        color: $Corn;
+        width: 52%;
+    }
+
+    .about {
+        width: 15%;
+        text-align: center;
+    }
+
+    a{
+        padding: 8px;
+    }
+}

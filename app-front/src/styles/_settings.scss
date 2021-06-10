@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200;1,400;1,700&display=swap");
+
+$font-1 : 'Nunito', sans-serif;
+
+$UranianBlue    : #A3D9FF;
+$ChineseViolet  : #7E6B8F;
+$Celadon        : #96E6B3;
+$Amaranth       : #DA3E52;
+$Corn           : #F2E94E;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {   
+    font-family: $font-1;
+    color: $ChineseViolet;
+    background-color: $UranianBlue;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: $Corn;
+    cursor: pointer;
+}
+a:visited {
+    color: $Corn;
+}

@@ -1,0 +1,17 @@
+@import "../_settings";
+
+.welcome{
+
+    h1 {
+        margin-top: 1%;
+        text-align: center;
+        width: 100%;
+    }
+   .menu_canins{
+       background-image: url(../../img/welcome/icone_chiens.png);
+       height: 212px;
+       //width: 200px;
+       background-repeat: no-repeat;
+   }
+   
+}
